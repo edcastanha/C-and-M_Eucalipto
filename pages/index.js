@@ -13,41 +13,43 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Site em Manutenção!
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Breve estaremmos com site disponível.
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+         
+
+          <a href="https://www.google.com/maps/dir/-23.1046819,-46.7283876/C%26M+Eucalipto/@-23.1008025,-46.7309016,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x94cedb5a114b9f27:0xc7e8a1e8e15dc08f!2m2!1d-46.7178628!2d-23.0931194" className={styles.card}>
+            <h2>Google Maps &rarr;</h2>
+            <p>C&M Madeira Tratada e Celio Telas</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://api.whatsapp.com/send/?phone=5511965712976&text&app_absent=0"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
+            <h2>WhatsApp &rarr;</h2>
+            <p>
+              Converse com +55 11 96571-2976.
+            </p>
+          </a>
+          <a
+            href="https://www.agetel.com.br/agetel~jarinu~eucaliptos--tratados-em-auto-clave~c---m--eucalipto-tratado~5038"
+            className={styles.card}
+          >
+            <h2>Agetel &rarr;</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+          <a href="#" className={styles.card}>
+            <h2>Serviços
+              &rarr;</h2>
+            <p>Eucaliptos tratados em auto-Clave,Barracões de Madeira,Cercas,Telhados</p>
           </a>
         </div>
       </main>
