@@ -43,8 +43,12 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Agetel &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Rod. Edgard Máximo Zambotto, Km 73
+            José de Lima
+Jarinu, SP
+13.240-000.</p>
           </a>
+          
 
           <a href="#" className={styles.card}>
             <h2>Serviços
