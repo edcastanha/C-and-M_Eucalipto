@@ -39,21 +39,17 @@ export default function Home() {
             </p>
           </a>
           <a
-            href="https://www.agetel.com.br/agetel~jarinu~eucaliptos--tratados-em-auto-clave~c---m--eucalipto-tratado~5038"
+            href="https://www.instagram.com/eucaliptoetelas/"
             className={styles.card}
           >
-            <h2>Agetel &rarr;</h2>
-            <p>Rod. Edgard Máximo Zambotto, Km 73
-            José de Lima
-Jarinu, SP
-13.240-000.</p>
+            <h2>Siga no Instagram &rarr;</h2>
+            <p>Confira nossos trabalhos em  Decks, Pergolado, Quiosques, Cercas e Alambrados</p>
           </a>
           
 
           <a href="#" className={styles.card}>
-            <h2>Serviços
-              &rarr;</h2>
-            <p>Eucaliptos tratados em auto-Clave,Barracões de Madeira,Cercas,Telhados</p>
+            <h2>Mão de obra &rarr;</h2>
+            <p>Eucaliptos tratados em auto-Clave, Barracões de Madeira, Cercas, Cruzetas e Dormentes</p>
           </a>
         </div>
       </main>
